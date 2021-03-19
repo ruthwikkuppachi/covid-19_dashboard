@@ -3,7 +3,7 @@ Africa,Algeria
 Africa,Angola
 Africa,Benin
 Africa,Botswana
-Africa,Burkina
+Africa,Burkina Faso
 Africa,Burundi
 Africa,Cameroon
 Africa,Cape Verde
@@ -47,7 +47,7 @@ Africa,South Africa
 Africa,South Sudan
 Africa,Sudan
 Africa,Swaziland
-Africa,Tanzania
+Africa,"Tanzania, United Republic of"
 Africa,Togo
 Africa,Tunisia
 Africa,Uganda
@@ -57,21 +57,21 @@ Asia,Afghanistan
 Asia,Bahrain
 Asia,Bangladesh
 Asia,Bhutan
-Asia,Brunei
-Asia,Burma (Myanmar)
+Asia,Brunei Darussalam
+Asia,Myanmar
 Asia,Cambodia
 Asia,China
-Asia,East Timor
+Asia,Timor-Leste
 Asia,India
 Asia,Indonesia
-Asia,Iran
+Asia,"Iran, Islamic Republic of"
 Asia,Iraq
 Asia,Israel
 Asia,Japan
 Asia,Jordan
 Asia,Kazakhstan
 Asia,"Korea, North"
-Asia,"Korea, South"
+Asia,Korea (South)
 Asia,Kuwait
 Asia,Kyrgyzstan
 Asia,Laos
@@ -82,6 +82,7 @@ Asia,Mongolia
 Asia,Nepal
 Asia,Oman
 Asia,Pakistan
+Asia,Palestinian Territory
 Asia,Philippines
 Asia,Qatar
 Asia,Russian Federation
@@ -89,6 +90,7 @@ Asia,Saudi Arabia
 Asia,Singapore
 Asia,Sri Lanka
 Asia,Syria
+Asia,"Taiwan, Republic of China"
 Asia,Tajikistan
 Asia,Thailand
 Asia,Turkey
@@ -108,7 +110,7 @@ Europe,Bosnia and Herzegovina
 Europe,Bulgaria
 Europe,Croatia
 Europe,Cyprus
-Europe,CZ
+Europe,Czech Republic
 Europe,Denmark
 Europe,Estonia
 Europe,Finland
@@ -124,7 +126,7 @@ Europe,Latvia
 Europe,Liechtenstein
 Europe,Lithuania
 Europe,Luxembourg
-Europe,Macedonia
+Europe,"Macedonia, Republic of"
 Europe,Malta
 Europe,Moldova
 Europe,Monaco
@@ -133,6 +135,7 @@ Europe,Netherlands
 Europe,Norway
 Europe,Poland
 Europe,Portugal
+Europe,Republic of Kosovo
 Europe,Romania
 Europe,San Marino
 Europe,Serbia
@@ -164,14 +167,14 @@ North America,Nicaragua
 North America,Panama
 North America,Saint Kitts and Nevis
 North America,Saint Lucia
-North America,Saint Vincent and the Grenadines
+North America,Saint Vincent and Grenadines
 North America,Trinidad and Tobago
-North America,US
+North America,United States of America
 Oceania,Australia
 Oceania,Fiji
 Oceania,Kiribati
 Oceania,Marshall Islands
-Oceania,Micronesia
+Oceania,"Micronesia, Federated States of"
 Oceania,Nauru
 Oceania,New Zealand
 Oceania,Palau
